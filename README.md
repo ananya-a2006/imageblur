@@ -8,6 +8,8 @@ It uses **Python** and **OpenCV** to apply Gaussian blur based on the percentage
 ## 📂 working Structure
 
 
-## Usage 
+### Usage 
+
+To blur an image by giving any blur percentage (0–100%).
 
  ![blur Image](images/blur.png)
