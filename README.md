@@ -5,6 +5,9 @@ It uses **Python** and **OpenCV** to apply Gaussian blur based on the percentage
 
 ---
 
-## 📂 Project Structure
+## 📂 working Structure
+
+
+## Usage 
 
  ![blur Image](images/blur.png)
